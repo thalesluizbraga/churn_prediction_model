@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/40426bd3dfb0468e9cedd80416485772/artifacts
+end_time: 1764624648451
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: 40426bd3dfb0468e9cedd80416485772
+run_name: bright-toad-663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624640651
+status: 3
+tags: []
+user_id: User

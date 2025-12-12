@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/fe9bd4b5c1314e759ea82795f64827d6/artifacts
+end_time: 1764624581689
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: fe9bd4b5c1314e759ea82795f64827d6
+run_name: legendary-toad-604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624573279
+status: 3
+tags: []
+user_id: User

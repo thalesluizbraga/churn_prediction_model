@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/56e4341c7a63433c8d169a7ca3f17f0a/artifacts
+end_time: 1764624675153
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: 56e4341c7a63433c8d169a7ca3f17f0a
+run_name: clean-newt-767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624665958
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,1 @@
+{'min_samples_leaf': [15, 20, 25, 30, 50], 'criterion': ['gini', 'entropy', 'log_loss']}

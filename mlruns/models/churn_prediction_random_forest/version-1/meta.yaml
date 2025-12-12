@@ -1,0 +1,15 @@
+creation_timestamp: 1764625394868
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1764625394868
+model_id: m-2e828593631943f28c920096acf614cf
+name: churn_prediction_random_forest
+run_id: 9a6f83fce68d45e893aba90c2a2c194e
+run_link: ''
+source: models:/m-2e828593631943f28c920096acf614cf
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/345863373343595823/models/m-2e828593631943f28c920096acf614cf/artifacts
+user_id: null
+version: 1

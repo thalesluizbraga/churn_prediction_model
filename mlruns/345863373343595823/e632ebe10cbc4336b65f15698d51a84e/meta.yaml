@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/e632ebe10cbc4336b65f15698d51a84e/artifacts
+end_time: 1764624776395
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: e632ebe10cbc4336b65f15698d51a84e
+run_name: bright-ant-884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624766579
+status: 3
+tags: []
+user_id: User

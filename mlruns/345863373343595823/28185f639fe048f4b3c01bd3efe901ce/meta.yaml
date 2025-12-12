@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/28185f639fe048f4b3c01bd3efe901ce/artifacts
+end_time: 1764624516411
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: 28185f639fe048f4b3c01bd3efe901ce
+run_name: receptive-skunk-628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624508054
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,8 @@
+digest: e4b53512
+name: dataset
+profile: '{"num_rows": 4396, "num_elements": 4396}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "propAvgMediaTransacoesDias",
+  "required": true}]}'
+source: '{"tags": {"mlflow.user": "User", "mlflow.source.name": "c:\\Users\\User\\Documents\\repos\\curso_ml_teo\\.venv\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

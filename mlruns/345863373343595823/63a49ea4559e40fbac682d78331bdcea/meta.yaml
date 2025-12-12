@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/63a49ea4559e40fbac682d78331bdcea/artifacts
+end_time: 1764624908097
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: 63a49ea4559e40fbac682d78331bdcea
+run_name: caring-wolf-28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624891669
+status: 3
+tags: []
+user_id: User

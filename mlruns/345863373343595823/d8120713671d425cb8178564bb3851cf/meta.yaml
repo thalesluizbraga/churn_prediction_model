@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/d8120713671d425cb8178564bb3851cf/artifacts
+end_time: 1764624809167
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: d8120713671d425cb8178564bb3851cf
+run_name: brawny-goat-211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624798525
+status: 3
+tags: []
+user_id: User

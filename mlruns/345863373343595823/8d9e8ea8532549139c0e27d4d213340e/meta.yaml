@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/8d9e8ea8532549139c0e27d4d213340e/artifacts
+end_time: 1764624940452
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: 8d9e8ea8532549139c0e27d4d213340e
+run_name: sedate-shoat-305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624930815
+status: 3
+tags: []
+user_id: User

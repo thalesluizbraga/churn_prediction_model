@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/dc4e1a30dd554ccb856eb4c72426bbc4/artifacts
+end_time: 1764624488896
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: dc4e1a30dd554ccb856eb4c72426bbc4
+run_name: dashing-eel-166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624474604
+status: 3
+tags: []
+user_id: User

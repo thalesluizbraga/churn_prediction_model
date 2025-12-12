@@ -1,0 +1,6 @@
+GridSearchCV(cv=3,
+             estimator=DecisionTreeClassifier(min_samples_leaf=20,
+                                              random_state=42),
+             param_grid={'criterion': ['gini', 'entropy', 'log_loss'],
+                         'min_samples_leaf': [15, 20, 25, 30, 50]},
+             scoring='roc_auc', verbose=4)

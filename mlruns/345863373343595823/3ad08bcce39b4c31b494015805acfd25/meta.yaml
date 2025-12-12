@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/3ad08bcce39b4c31b494015805acfd25/artifacts
+end_time: 1764624846034
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: 3ad08bcce39b4c31b494015805acfd25
+run_name: unequaled-shrew-396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624837009
+status: 3
+tags: []
+user_id: User

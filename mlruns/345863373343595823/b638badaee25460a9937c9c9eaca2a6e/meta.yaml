@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/b638badaee25460a9937c9c9eaca2a6e/artifacts
+end_time: 1764624720867
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: b638badaee25460a9937c9c9eaca2a6e
+run_name: rogue-panda-931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624712530
+status: 3
+tags: []
+user_id: User

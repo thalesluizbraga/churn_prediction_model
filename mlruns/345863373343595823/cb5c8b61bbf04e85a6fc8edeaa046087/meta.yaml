@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/cb5c8b61bbf04e85a6fc8edeaa046087/artifacts
+end_time: 1764624891074
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: cb5c8b61bbf04e85a6fc8edeaa046087
+run_name: kindly-squirrel-401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624880849
+status: 3
+tags: []
+user_id: User

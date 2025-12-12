@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/6260bf568fc54dcdb9442f8edfd6fc5b/artifacts
+end_time: 1764624908097
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: 6260bf568fc54dcdb9442f8edfd6fc5b
+run_name: enchanting-hen-181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624891669
+status: 3
+tags: []
+user_id: User

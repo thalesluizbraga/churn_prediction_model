@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/cd8206b0ffdd4e2796986989b9cdb0c6/artifacts
+end_time: 1764624940452
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: cd8206b0ffdd4e2796986989b9cdb0c6
+run_name: resilient-shrimp-232
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624930815
+status: 3
+tags: []
+user_id: User

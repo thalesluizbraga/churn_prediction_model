@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/d0f840f54792495586cda50a593b00a7/artifacts
+end_time: 1764624836884
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: d0f840f54792495586cda50a593b00a7
+run_name: upbeat-bass-157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624827890
+status: 3
+tags: []
+user_id: User

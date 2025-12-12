@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/6350bb3af1ed41f8920927b184b04475/artifacts
+end_time: 1764624516411
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: 6350bb3af1ed41f8920927b184b04475
+run_name: efficient-doe-342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624508054
+status: 3
+tags: []
+user_id: User

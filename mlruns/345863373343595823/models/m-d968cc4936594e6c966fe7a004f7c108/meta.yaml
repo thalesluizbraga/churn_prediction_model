@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/345863373343595823/models/m-d968cc4936594e6c966fe7a004f7c108/artifacts
+creation_timestamp: 1764624577574
+experiment_id: '345863373343595823'
+last_updated_timestamp: 1764624581662
+model_id: m-d968cc4936594e6c966fe7a004f7c108
+model_type: ''
+name: best_estimator
+source_run_id: 21671b25eb1c47d8adc261fd01719a70
+status: 2
+status_message: null

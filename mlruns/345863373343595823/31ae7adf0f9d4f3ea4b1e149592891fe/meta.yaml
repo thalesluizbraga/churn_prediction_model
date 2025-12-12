@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/31ae7adf0f9d4f3ea4b1e149592891fe/artifacts
+end_time: 1764624857081
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: 31ae7adf0f9d4f3ea4b1e149592891fe
+run_name: gifted-sponge-416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624846625
+status: 3
+tags: []
+user_id: User

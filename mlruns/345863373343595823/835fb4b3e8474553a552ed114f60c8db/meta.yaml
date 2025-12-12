@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/835fb4b3e8474553a552ed114f60c8db/artifacts
+end_time: 1764624744517
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: 835fb4b3e8474553a552ed114f60c8db
+run_name: awesome-midge-161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624734582
+status: 3
+tags: []
+user_id: User

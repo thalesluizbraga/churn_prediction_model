@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/91f7860404b54f318d937dc581eee0fa/artifacts
+end_time: 1764624640474
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: 91f7860404b54f318d937dc581eee0fa
+run_name: unequaled-shrike-58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624582163
+status: 3
+tags: []
+user_id: User

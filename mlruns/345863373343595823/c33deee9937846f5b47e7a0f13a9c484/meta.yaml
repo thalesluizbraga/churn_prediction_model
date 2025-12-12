@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/c33deee9937846f5b47e7a0f13a9c484/artifacts
+end_time: 1764624734401
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: c33deee9937846f5b47e7a0f13a9c484
+run_name: upset-bird-178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624712530
+status: 3
+tags: []
+user_id: User

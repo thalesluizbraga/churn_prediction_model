@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/be18e77afd024e83ad335eb8eb1465f8/artifacts
+end_time: 1764624498281
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: be18e77afd024e83ad335eb8eb1465f8
+run_name: upbeat-pug-452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624488993
+status: 3
+tags: []
+user_id: User

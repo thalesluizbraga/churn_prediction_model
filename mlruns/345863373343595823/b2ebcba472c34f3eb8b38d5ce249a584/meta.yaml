@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/b2ebcba472c34f3eb8b38d5ce249a584/artifacts
+end_time: 1764624776395
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: b2ebcba472c34f3eb8b38d5ce249a584
+run_name: monumental-lamb-971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624766579
+status: 3
+tags: []
+user_id: User

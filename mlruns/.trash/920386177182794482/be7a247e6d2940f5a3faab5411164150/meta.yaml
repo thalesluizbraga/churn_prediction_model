@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/920386177182794482/be7a247e6d2940f5a3faab5411164150/artifacts
+deleted_time: 1764624577645
+end_time: 1764587520624
+entry_point_name: ''
+experiment_id: '920386177182794482'
+lifecycle_stage: deleted
+run_id: be7a247e6d2940f5a3faab5411164150
+run_name: puzzled-skunk-429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764586410320
+status: 3
+tags: []
+user_id: User

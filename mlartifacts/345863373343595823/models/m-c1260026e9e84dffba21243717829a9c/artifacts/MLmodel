@@ -1,0 +1,28 @@
+artifact_path: mlflow-artifacts:/345863373343595823/models/m-c1260026e9e84dffba21243717829a9c/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+is_signature_from_type_hint: false
+mlflow_version: 3.6.0
+model_id: m-c1260026e9e84dffba21243717829a9c
+model_size_bytes: 3165
+model_uuid: m-c1260026e9e84dffba21243717829a9c
+prompts: null
+run_id: 91f7860404b54f318d937dc581eee0fa
+signature:
+  inputs: '[{"type": "double", "name": "propAvgQtdePontosPos", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-12-01 21:29:42.444548'

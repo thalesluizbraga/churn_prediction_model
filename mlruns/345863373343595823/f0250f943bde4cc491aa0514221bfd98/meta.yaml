@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/f0250f943bde4cc491aa0514221bfd98/artifacts
+end_time: 1764624880135
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: f0250f943bde4cc491aa0514221bfd98
+run_name: legendary-hound-432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624870168
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/e395e88c64374290a95d1de58c443a12/artifacts
+end_time: 1764624880135
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: e395e88c64374290a95d1de58c443a12
+run_name: bold-lark-474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624870168
+status: 3
+tags: []
+user_id: User

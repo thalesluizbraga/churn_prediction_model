@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/ab5c6d15045d4cc2b73afe92adbd083f/artifacts
+end_time: 1764624507414
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: ab5c6d15045d4cc2b73afe92adbd083f
+run_name: intelligent-toad-737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624498849
+status: 3
+tags: []
+user_id: User

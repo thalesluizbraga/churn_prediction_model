@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/e40f615dbbbd46c99478e25c400c604a/artifacts
+end_time: 1764624880696
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: e40f615dbbbd46c99478e25c400c604a
+run_name: orderly-wasp-182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624870168
+status: 3
+tags: []
+user_id: User

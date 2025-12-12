@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/0d968cdebfcf4854b705730d5d65edaa/artifacts
+end_time: 1764624674704
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: 0d968cdebfcf4854b705730d5d65edaa
+run_name: amusing-worm-227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624665958
+status: 3
+tags: []
+user_id: User

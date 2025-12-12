@@ -1,0 +1,8 @@
+artifact_location: mlflow-artifacts:/920386177182794482
+creation_time: 1764585022343
+experiment_id: '920386177182794482'
+last_update_time: 1764624577645
+lifecycle_stage: deleted
+name: modelo_ml_teo_experimentos
+tags:
+  mlflow.experimentKind: custom_model_development

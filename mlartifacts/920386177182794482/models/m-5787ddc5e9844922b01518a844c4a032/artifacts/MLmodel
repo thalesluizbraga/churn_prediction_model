@@ -1,0 +1,158 @@
+artifact_path: mlflow-artifacts:/920386177182794482/models/m-5787ddc5e9844922b01518a844c4a032/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+is_signature_from_type_hint: false
+mlflow_version: 3.6.0
+model_id: m-5787ddc5e9844922b01518a844c4a032
+model_size_bytes: 28530
+model_uuid: m-5787ddc5e9844922b01518a844c4a032
+prompts: null
+run_id: be7a247e6d2940f5a3faab5411164150
+signature:
+  inputs: '[{"type": "long", "name": "qtdeDiasD14_0", "required": true}, {"type":
+    "long", "name": "qtdeDiasD14_1", "required": true}, {"type": "long", "name": "propAvgQtdeDias_1",
+    "required": true}, {"type": "long", "name": "propAvgQtdeDias_5", "required": true},
+    {"type": "long", "name": "propAvgQtdeDias_0", "required": true}, {"type": "long",
+    "name": "propAvgQtdeDias_7", "required": true}, {"type": "long", "name": "propAvgQtdeDias_3",
+    "required": true}, {"type": "long", "name": "propAvgQtdeDias_6", "required": true},
+    {"type": "long", "name": "propAvgQtdeDias_2", "required": true}, {"type": "long",
+    "name": "propAvgQtdeDias_4", "required": true}, {"type": "long", "name": "qtdeDiasUltimaTransacao_6",
+    "required": true}, {"type": "long", "name": "qtdeDiasUltimaTransacao_0", "required":
+    true}, {"type": "long", "name": "qtdeDiasUltimaTransacao_3", "required": true},
+    {"type": "long", "name": "qtdeDiasUltimaTransacao_11", "required": true}, {"type":
+    "long", "name": "qtdeDiasUltimaTransacao_10", "required": true}, {"type": "long",
+    "name": "qtdeDiasUltimaTransacao_2", "required": true}, {"type": "long", "name":
+    "qtdeDiasUltimaTransacao_1", "required": true}, {"type": "long", "name": "qtdeDiasUltimaTransacao_9",
+    "required": true}, {"type": "long", "name": "qtdeDiasUltimaTransacao_4", "required":
+    true}, {"type": "long", "name": "qtdeDiasUltimaTransacao_13", "required": true},
+    {"type": "long", "name": "qtdeDiasUltimaTransacao_8", "required": true}, {"type":
+    "long", "name": "qtdeDiasUltimaTransacao_7", "required": true}, {"type": "long",
+    "name": "qtdeDiasUltimaTransacao_5", "required": true}, {"type": "long", "name":
+    "qtdeDiasUltimaTransacao_12", "required": true}, {"type": "long", "name": "qtdeDiasPrimeiraTransacao_1",
+    "required": true}, {"type": "long", "name": "qtdeDiasPrimeiraTransacao_0", "required":
+    true}, {"type": "long", "name": "propAvgQtdePontosPos_0", "required": true}, {"type":
+    "long", "name": "propAvgQtdePontosPos_1", "required": true}, {"type": "long",
+    "name": "propAvgMediaTransacoesDias_1", "required": true}, {"type": "long", "name":
+    "propAvgMediaTransacoesDias_0", "required": true}, {"type": "long", "name": "saldoPontosD28_1",
+    "required": true}, {"type": "long", "name": "saldoPontosD28_3", "required": true},
+    {"type": "long", "name": "saldoPontosD28_0", "required": true}, {"type": "long",
+    "name": "saldoPontosD28_2", "required": true}, {"type": "long", "name": "propAvgSaldoPontos_1",
+    "required": true}, {"type": "long", "name": "propAvgSaldoPontos_5", "required":
+    true}, {"type": "long", "name": "propAvgSaldoPontos_3", "required": true}, {"type":
+    "long", "name": "propAvgSaldoPontos_7", "required": true}, {"type": "long", "name":
+    "propAvgSaldoPontos_4", "required": true}, {"type": "long", "name": "propAvgSaldoPontos_6",
+    "required": true}, {"type": "long", "name": "propAvgSaldoPontos_0", "required":
+    true}, {"type": "long", "name": "propAvgSaldoPontos_2", "required": true}, {"type":
+    "long", "name": "propAvgQtdeTransacoes_3", "required": true}, {"type": "long",
+    "name": "propAvgQtdeTransacoes_4", "required": true}, {"type": "long", "name":
+    "propAvgQtdeTransacoes_2", "required": true}, {"type": "long", "name": "propAvgQtdeTransacoes_1",
+    "required": true}, {"type": "long", "name": "propAvgQtdeTransacoes_7", "required":
+    true}, {"type": "long", "name": "propAvgQtdeTransacoes_5", "required": true},
+    {"type": "long", "name": "propAvgQtdeTransacoes_6", "required": true}, {"type":
+    "long", "name": "propAvgQtdeTransacoes_0", "required": true}, {"type": "long",
+    "name": "mediaTransacoesDias_4", "required": true}, {"type": "long", "name": "mediaTransacoesDias_0",
+    "required": true}, {"type": "long", "name": "mediaTransacoesDias_2", "required":
+    true}, {"type": "long", "name": "mediaTransacoesDias_3", "required": true}, {"type":
+    "long", "name": "mediaTransacoesDias_5", "required": true}, {"type": "long", "name":
+    "mediaTransacoesDias_1", "required": true}, {"type": "long", "name": "qtdeTransacoesD28_0",
+    "required": true}, {"type": "long", "name": "qtdeTransacoesD28_2", "required":
+    true}, {"type": "long", "name": "qtdeTransacoesD28_6", "required": true}, {"type":
+    "long", "name": "qtdeTransacoesD28_1", "required": true}, {"type": "long", "name":
+    "qtdeTransacoesD28_5", "required": true}, {"type": "long", "name": "qtdeTransacoesD28_4",
+    "required": true}, {"type": "long", "name": "qtdeTransacoesD28_3", "required":
+    true}, {"type": "long", "name": "qtdeTransacoesD28_7", "required": true}, {"type":
+    "long", "name": "qtdePontosPos_0", "required": true}, {"type": "long", "name":
+    "qtdePontosPos_1", "required": true}, {"type": "long", "name": "qtdePontosPosD28_0",
+    "required": true}, {"type": "long", "name": "qtdePontosPosD28_1", "required":
+    true}, {"type": "long", "name": "saldoPontos_0", "required": true}, {"type": "long",
+    "name": "saldoPontos_1", "required": true}, {"type": "long", "name": "qtdeChatMessage_4",
+    "required": true}, {"type": "long", "name": "qtdeChatMessage_0", "required": true},
+    {"type": "long", "name": "qtdeChatMessage_1", "required": true}, {"type": "long",
+    "name": "qtdeChatMessage_6", "required": true}, {"type": "long", "name": "qtdeChatMessage_2",
+    "required": true}, {"type": "long", "name": "qtdeChatMessage_5", "required": true},
+    {"type": "long", "name": "qtdeChatMessage_3", "required": true}, {"type": "long",
+    "name": "qtdeChatMessage_7", "required": true}, {"type": "long", "name": "qtdeTransacoes_5",
+    "required": true}, {"type": "long", "name": "qtdeTransacoes_7", "required": true},
+    {"type": "long", "name": "qtdeTransacoes_2", "required": true}, {"type": "long",
+    "name": "qtdeTransacoes_0", "required": true}, {"type": "long", "name": "qtdeTransacoes_13",
+    "required": true}, {"type": "long", "name": "qtdeTransacoes_6", "required": true},
+    {"type": "long", "name": "qtdeTransacoes_4", "required": true}, {"type": "long",
+    "name": "qtdeTransacoes_10", "required": true}, {"type": "long", "name": "qtdeTransacoes_11",
+    "required": true}, {"type": "long", "name": "qtdeTransacoes_3", "required": true},
+    {"type": "long", "name": "qtdeTransacoes_1", "required": true}, {"type": "long",
+    "name": "qtdeTransacoes_14", "required": true}, {"type": "long", "name": "qtdeTransacoes_9",
+    "required": true}, {"type": "long", "name": "qtdeTransacoes_12", "required": true},
+    {"type": "long", "name": "qtdeTransacoes_8", "required": true}, {"type": "long",
+    "name": "qtdeTransacoesD14_1", "required": true}, {"type": "long", "name": "qtdeTransacoesD14_4",
+    "required": true}, {"type": "long", "name": "qtdeTransacoesD14_6", "required":
+    true}, {"type": "long", "name": "qtdeTransacoesD14_0", "required": true}, {"type":
+    "long", "name": "qtdeTransacoesD14_7", "required": true}, {"type": "long", "name":
+    "qtdeTransacoesD14_3", "required": true}, {"type": "long", "name": "qtdeTransacoesD14_2",
+    "required": true}, {"type": "long", "name": "qtdeTransacoesD14_5", "required":
+    true}, {"type": "long", "name": "qtdePresen\u00e7a_0", "required": true}, {"type":
+    "long", "name": "qtdePresen\u00e7a_5", "required": true}, {"type": "long", "name":
+    "qtdePresen\u00e7a_2", "required": true}, {"type": "long", "name": "qtdePresen\u00e7a_7",
+    "required": true}, {"type": "long", "name": "qtdePresen\u00e7a_4", "required":
+    true}, {"type": "long", "name": "qtdePresen\u00e7a_6", "required": true}, {"type":
+    "long", "name": "qtdePresen\u00e7a_3", "required": true}, {"type": "long", "name":
+    "qtdePresen\u00e7a_1", "required": true}, {"type": "long", "name": "qtdePontosPosD7_0",
+    "required": true}, {"type": "long", "name": "qtdePontosPosD7_1", "required": true},
+    {"type": "long", "name": "qtdePontosPosD7_3", "required": true}, {"type": "long",
+    "name": "qtdePontosPosD7_2", "required": true}, {"type": "long", "name": "qtdeDias_2",
+    "required": true}, {"type": "long", "name": "qtdeDias_6", "required": true}, {"type":
+    "long", "name": "qtdeDias_0", "required": true}, {"type": "long", "name": "qtdeDias_7",
+    "required": true}, {"type": "long", "name": "qtdeDias_5", "required": true}, {"type":
+    "long", "name": "qtdeDias_4", "required": true}, {"type": "long", "name": "qtdeDias_1",
+    "required": true}, {"type": "long", "name": "qtdeDias_3", "required": true}, {"type":
+    "long", "name": "saldoPontosD14_5", "required": true}, {"type": "long", "name":
+    "saldoPontosD14_8", "required": true}, {"type": "long", "name": "saldoPontosD14_11",
+    "required": true}, {"type": "long", "name": "saldoPontosD14_4", "required": true},
+    {"type": "long", "name": "saldoPontosD14_13", "required": true}, {"type": "long",
+    "name": "saldoPontosD14_6", "required": true}, {"type": "long", "name": "saldoPontosD14_14",
+    "required": true}, {"type": "long", "name": "saldoPontosD14_3", "required": true},
+    {"type": "long", "name": "saldoPontosD14_9", "required": true}, {"type": "long",
+    "name": "saldoPontosD14_7", "required": true}, {"type": "long", "name": "saldoPontosD14_0",
+    "required": true}, {"type": "long", "name": "saldoPontosD14_1", "required": true},
+    {"type": "long", "name": "saldoPontosD14_2", "required": true}, {"type": "long",
+    "name": "saldoPontosD14_10", "required": true}, {"type": "long", "name": "saldoPontosD14_12",
+    "required": true}, {"type": "long", "name": "qtdePontosPosD14_1", "required":
+    true}, {"type": "long", "name": "qtdePontosPosD14_3", "required": true}, {"type":
+    "long", "name": "qtdePontosPosD14_4", "required": true}, {"type": "long", "name":
+    "qtdePontosPosD14_0", "required": true}, {"type": "long", "name": "qtdePontosPosD14_5",
+    "required": true}, {"type": "long", "name": "qtdePontosPosD14_2", "required":
+    true}, {"type": "long", "name": "qtdePontosPosD14_6", "required": true}, {"type":
+    "long", "name": "qtdeDiasD28_0", "required": true}, {"type": "long", "name": "qtdeDiasD28_2",
+    "required": true}, {"type": "long", "name": "qtdeDiasD28_5", "required": true},
+    {"type": "long", "name": "qtdeDiasD28_1", "required": true}, {"type": "long",
+    "name": "qtdeDiasD28_6", "required": true}, {"type": "long", "name": "qtdeDiasD28_4",
+    "required": true}, {"type": "long", "name": "qtdeDiasD28_3", "required": true},
+    {"type": "long", "name": "propAvgQtdePontosNeg_0", "required": true}, {"type":
+    "long", "name": "propAvgQtdePontosNeg_10", "required": true}, {"type": "long",
+    "name": "propAvgQtdePontosNeg_8", "required": true}, {"type": "long", "name":
+    "propAvgQtdePontosNeg_7", "required": true}, {"type": "long", "name": "propAvgQtdePontosNeg_13",
+    "required": true}, {"type": "long", "name": "propAvgQtdePontosNeg_12", "required":
+    true}, {"type": "long", "name": "propAvgQtdePontosNeg_3", "required": true}, {"type":
+    "long", "name": "propAvgQtdePontosNeg_4", "required": true}, {"type": "long",
+    "name": "propAvgQtdePontosNeg_6", "required": true}, {"type": "long", "name":
+    "propAvgQtdePontosNeg_11", "required": true}, {"type": "long", "name": "propAvgQtdePontosNeg_1",
+    "required": true}, {"type": "long", "name": "propAvgQtdePontosNeg_2", "required":
+    true}, {"type": "long", "name": "propAvgQtdePontosNeg_5", "required": true}, {"type":
+    "long", "name": "propAvgQtdePontosNeg_9", "required": true}, {"type": "long",
+    "name": "qtdeTransacoesD7_0", "required": true}, {"type": "long", "name": "qtdeTransacoesD7_1",
+    "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-12-01 10:53:31.399536'

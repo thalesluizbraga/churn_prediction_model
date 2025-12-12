@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/4465bc0c43f94c14b61fd710c1eadbef/artifacts
+end_time: 1764624908097
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: 4465bc0c43f94c14b61fd710c1eadbef
+run_name: merciful-cat-83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624891669
+status: 3
+tags: []
+user_id: User

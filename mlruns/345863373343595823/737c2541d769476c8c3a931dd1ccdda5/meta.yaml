@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/737c2541d769476c8c3a931dd1ccdda5/artifacts
+end_time: 1764624711912
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: 737c2541d769476c8c3a931dd1ccdda5
+run_name: classy-hen-459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624703130
+status: 3
+tags: []
+user_id: User

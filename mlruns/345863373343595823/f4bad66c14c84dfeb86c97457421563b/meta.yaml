@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/f4bad66c14c84dfeb86c97457421563b/artifacts
+end_time: 1764624665842
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: f4bad66c14c84dfeb86c97457421563b
+run_name: abrasive-goat-74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624657449
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,28 @@
+artifact_path: mlflow-artifacts:/345863373343595823/models/m-b009d406fd8648958e70f75a28f3f82b/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+is_signature_from_type_hint: false
+mlflow_version: 3.6.0
+model_id: m-b009d406fd8648958e70f75a28f3f82b
+model_size_bytes: 1443
+model_uuid: m-b009d406fd8648958e70f75a28f3f82b
+prompts: null
+run_id: f10b1dc7e2644f63b719f5fa855f6797
+signature:
+  inputs: '[{"type": "long", "name": "saldoPontos", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-12-01 21:32:52.065324'

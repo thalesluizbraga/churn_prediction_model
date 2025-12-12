@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/cef191230ce34791ad52efbb1cf99bfe/artifacts
+end_time: 1764624711912
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: cef191230ce34791ad52efbb1cf99bfe
+run_name: whimsical-calf-257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624703130
+status: 3
+tags: []
+user_id: User

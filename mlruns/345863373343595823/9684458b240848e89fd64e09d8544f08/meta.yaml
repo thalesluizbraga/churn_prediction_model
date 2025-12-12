@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/9684458b240848e89fd64e09d8544f08/artifacts
+end_time: 1764624581689
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: 9684458b240848e89fd64e09d8544f08
+run_name: dashing-squid-845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624573279
+status: 3
+tags: []
+user_id: User

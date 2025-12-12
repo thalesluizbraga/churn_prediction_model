@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/8e7dc37d7bb341d3beb795bd9cbfe078/artifacts
+end_time: 1764624940452
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: 8e7dc37d7bb341d3beb795bd9cbfe078
+run_name: unique-stoat-725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624930815
+status: 3
+tags: []
+user_id: User

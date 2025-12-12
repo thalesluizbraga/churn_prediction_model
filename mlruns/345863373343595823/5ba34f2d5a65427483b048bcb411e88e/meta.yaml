@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/5ba34f2d5a65427483b048bcb411e88e/artifacts
+end_time: 1764624674704
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: 5ba34f2d5a65427483b048bcb411e88e
+run_name: abundant-wolf-995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624665958
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/19895572f8224c23acb2ea695aac590c/artifacts
+end_time: 1764624744517
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: 19895572f8224c23acb2ea695aac590c
+run_name: fortunate-pig-556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624734582
+status: 3
+tags: []
+user_id: User

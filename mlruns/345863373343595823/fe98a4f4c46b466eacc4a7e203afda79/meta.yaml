@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/fe98a4f4c46b466eacc4a7e203afda79/artifacts
+end_time: 1764624498281
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: fe98a4f4c46b466eacc4a7e203afda79
+run_name: beautiful-flea-463
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624488993
+status: 3
+tags: []
+user_id: User

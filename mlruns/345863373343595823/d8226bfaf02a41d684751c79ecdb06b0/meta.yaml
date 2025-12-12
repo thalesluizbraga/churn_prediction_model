@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/d8226bfaf02a41d684751c79ecdb06b0/artifacts
+end_time: 1764624891074
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: d8226bfaf02a41d684751c79ecdb06b0
+run_name: adaptable-rook-727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624880849
+status: 3
+tags: []
+user_id: User

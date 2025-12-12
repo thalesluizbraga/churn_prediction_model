@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/212f813e7a7e432690f19f521f10ed81/artifacts
+end_time: 1764624836498
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: 212f813e7a7e432690f19f521f10ed81
+run_name: gaudy-whale-73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624827890
+status: 3
+tags: []
+user_id: User

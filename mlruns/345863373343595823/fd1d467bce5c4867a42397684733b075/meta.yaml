@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/fd1d467bce5c4867a42397684733b075/artifacts
+end_time: 1764624507414
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: fd1d467bce5c4867a42397684733b075
+run_name: bold-croc-195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624498849
+status: 3
+tags: []
+user_id: User

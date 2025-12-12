@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/d81c4bf8559f488aaf856f028ec58af7/artifacts
+end_time: 1764624809167
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: d81c4bf8559f488aaf856f028ec58af7
+run_name: righteous-worm-402
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624798525
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/1e437c6e97d44aa8b103f8924335fe74/artifacts
+end_time: 1764624919308
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: 1e437c6e97d44aa8b103f8924335fe74
+run_name: skillful-seal-563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624908741
+status: 3
+tags: []
+user_id: User

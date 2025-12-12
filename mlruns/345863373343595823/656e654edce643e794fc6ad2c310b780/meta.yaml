@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/656e654edce643e794fc6ad2c310b780/artifacts
+end_time: 1764624827680
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: 656e654edce643e794fc6ad2c310b780
+run_name: indecisive-trout-665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624798525
+status: 3
+tags: []
+user_id: User

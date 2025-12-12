@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/4b49fbbd38b74c859ec2c7d5f85b0552/artifacts
+end_time: 1764624918774
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: 4b49fbbd38b74c859ec2c7d5f85b0552
+run_name: clumsy-bee-936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624908741
+status: 3
+tags: []
+user_id: User

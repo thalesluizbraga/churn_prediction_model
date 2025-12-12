@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/957aa699738c4a18b87290315dada3ea/artifacts
+end_time: 1764624712383
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: 957aa699738c4a18b87290315dada3ea
+run_name: enchanting-flea-421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624703130
+status: 3
+tags: []
+user_id: User

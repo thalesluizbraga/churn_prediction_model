@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/800ad547e04747d7884636e4491990b5/artifacts
+end_time: 1764624648451
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: 800ad547e04747d7884636e4491990b5
+run_name: rumbling-whale-724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624640651
+status: 3
+tags: []
+user_id: User

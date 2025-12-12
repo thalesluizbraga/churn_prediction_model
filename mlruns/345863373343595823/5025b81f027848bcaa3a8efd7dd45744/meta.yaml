@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/5025b81f027848bcaa3a8efd7dd45744/artifacts
+end_time: 1764624589933
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: 5025b81f027848bcaa3a8efd7dd45744
+run_name: treasured-boar-586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624582163
+status: 3
+tags: []
+user_id: User

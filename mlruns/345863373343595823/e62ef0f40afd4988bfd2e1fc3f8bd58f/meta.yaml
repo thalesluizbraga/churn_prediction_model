@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/e62ef0f40afd4988bfd2e1fc3f8bd58f/artifacts
+end_time: 1764624856651
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: e62ef0f40afd4988bfd2e1fc3f8bd58f
+run_name: unequaled-lark-554
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624846625
+status: 3
+tags: []
+user_id: User

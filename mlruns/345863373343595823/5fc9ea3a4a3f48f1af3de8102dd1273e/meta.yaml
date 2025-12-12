@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/5fc9ea3a4a3f48f1af3de8102dd1273e/artifacts
+end_time: 1764624766385
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: 5fc9ea3a4a3f48f1af3de8102dd1273e
+run_name: lyrical-deer-402
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624734582
+status: 3
+tags: []
+user_id: User

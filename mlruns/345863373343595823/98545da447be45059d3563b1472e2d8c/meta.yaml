@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/98545da447be45059d3563b1472e2d8c/artifacts
+end_time: 1764624674704
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: 98545da447be45059d3563b1472e2d8c
+run_name: valuable-mouse-574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624665958
+status: 3
+tags: []
+user_id: User

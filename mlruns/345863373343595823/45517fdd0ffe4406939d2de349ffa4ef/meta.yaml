@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/345863373343595823/45517fdd0ffe4406939d2de349ffa4ef/artifacts
+end_time: 1764624930206
+entry_point_name: ''
+experiment_id: '345863373343595823'
+lifecycle_stage: active
+run_id: 45517fdd0ffe4406939d2de349ffa4ef
+run_name: mercurial-shad-469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764624919670
+status: 3
+tags: []
+user_id: User
